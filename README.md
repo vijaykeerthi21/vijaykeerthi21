@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vijaykeerthi21.vijaykeerthi21&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vijaykeerthi21.vijaykeerthi21"  />
 </div>
 
 ###
@@ -31,7 +31,7 @@
 <h3 align="left">About Me</h3>
 
 ###
-<p align="left"> 📚 Computer Science student currently pursuing 2nd year BTech  </p>
+<p align="left"> Student at HITAM (Hyderabad Institute of Technology and Management) Computer Science student  </p>
 
 
   
