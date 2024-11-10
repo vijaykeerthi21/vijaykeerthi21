@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPotential17%2FPotential17&psig=AOvVaw0p5Vc5utD_xC0HuSerSTgV&ust=1731341882018000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC186qV0okDFQAAAAAdAAAAABAE"  />
+    <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2E4djdzM2U3dTlhNWV1ZHhodGtiZGdlemJvbmlqdm02bXplbHEwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qc0BxWM9TxljvJug2x/giphy.gif"  />
     
   </div>
   
@@ -33,26 +33,6 @@
 ###
 <p align="left"> 📚 Computer Science student currently pursuing 2nd year BTech  </p>
 
-
-
-<h3 align="left">🛠 Language and tools</h3>
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-    <img width="12" />
-    <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" height="40" alt="powerbi logo"  />
-    <img width="12" />
-    <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" height="40" alt="Microsoft_Excel logo"  />
-    <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL logo"  />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" height="40" alt="Microsoft Word"  />
-    <img width="12" />
-    <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" height="40" alt="MongoDB"  />
-    <img width="12" />
-    </div>
 
   
 
