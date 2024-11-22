@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="200" src=""C:\Users\ajayk\OneDrive\Desktop\pngtree-abstract-background-with-watercolor-texture-in-shades-of-blue-and-orange-image_13899501.png""  />
+    <img height="200" src="C:\Users\ajayk\OneDrive\Desktop\pngtree-abstract-background-with-watercolor-texture-in-shades-of-blue-and-orange-image_13899501.png"  />
     
   </div>
   
