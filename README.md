@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="200" src="https://www.google.com/imgres?q=hitam&imgurl=https%3A%2F%2Fhitam.org%2Fwp-content%2Fuploads%2F2024%2F06%2FHistroty-of-HITAM-4.jpg&imgrefurl=https%3A%2F%2Fhitam.org%2Fhistory-of-hitam%2F&docid=VHbpq8UzKcFQLM&tbnid=3mtlmBcea_LGHM&vet=12ahUKEwjt5cXR7O-JAxX7SGwGHVjMFM8QM3oECFMQAA..i&w=1900&h=885&hcb=2&ved=2ahUKEwjt5cXR7O-JAxX7SGwGHVjMFM8QM3oECFMQAA"  />
+    <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2E4djdzM2U3dTlhNWV1ZHhodGtiZGdlemJvbmlqdm02bXplbHEwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qc0BxWM9TxljvJug2x/giphy.gif"  />
     
   </div>
   
