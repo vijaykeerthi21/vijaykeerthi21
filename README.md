@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2E4djdzM2U3dTlhNWV1ZHhodGtiZGdlemJvbmlqdm02bXplbHEwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qc0BxWM9TxljvJug2x/giphy.gif"  />
+    <img height="200" src=""C:\Users\ajayk\OneDrive\Desktop\pngtree-abstract-background-with-watercolor-texture-in-shades-of-blue-and-orange-image_13899501.png""  />
     
   </div>
   
